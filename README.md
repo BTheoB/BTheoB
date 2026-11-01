@@ -40,5 +40,5 @@ Un portfolio moderne avec animations et 3D pour présenter mes réalisations.
 ## 📫 Me contacter
 
 - 🌐 Portfolio : [theobastienne.com](https://theobastienne.com)
-- 💼 LinkedIn : [linkedin.com/in/théo-bastienne-banco-0ba518163](www.linkedin.com/in/théo-bastienne-banco-0ba518163)
+- 💼 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/th%C3%A9o-bastienne-banco-0ba518163)
 - ✉️ Email : [tbastienne@gmail.com](mailto:tbastienne@gmail.com)
